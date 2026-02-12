@@ -1,5 +1,5 @@
 ## My Learning Goals
-###This Semester
+### This Semester
 
 I like learning **technological** *skills*, as part of `personal growth`
 
@@ -16,8 +16,8 @@ Learn [piano scales] ()
 
 |   Tool     |      Purpose         |   Link    |
 |------------|----------------------|-----------|
-|hbt         |Analyzes forks network|[hbt] (https://github.com/hbt)|
-|IP-Changer  |Changes ip address    |[IP-changer] (https://github.com/LxaNce-Hacker/IP-Changer)|
+|hbt         |Analyzes forks network|[hbt](https://github.com/hbt)|
+|IP-Changer  |Changes ip address    |[IP-changer](https://github.com/LxaNce-Hacker/IP-Changer)|
 
 [*] Graphic design
 [*] Media
