@@ -28,7 +28,7 @@ Learn [piano scales](https://www.youtube.com/watch?v=bm9fgq9COgI)
 |IP-Changer  |Changes ip address    |[IP-changer](https://github.com/LxaNce-Hacker/IP-Changer)|
 
 ## Create a task list with at least 4 items related to your learning goals. Check off the ones you have already completed.
-- [*]Graphic design
+-[*] Graphic design
 - [*]Media
 - [ ]Programming
 - [ ]Music production
