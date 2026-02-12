@@ -3,7 +3,7 @@
 
 I like learning **technological** *skills*, as part of `personal growth`
 
-My [profile page] ()
+My [profile page](https://github.com/kmwota-hub/kmwota-hub.github.io)
 Learn [piano scales](https://www.youtube.com/watch?v=bm9fgq9COgI)
 
 - JavaScript
