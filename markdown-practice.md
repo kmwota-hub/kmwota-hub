@@ -4,7 +4,7 @@
 I like learning **technological** *skills*, as part of `personal growth`
 
 My [profile page] ()
-Learn [piano scales] ()
+Learn [piano scales](https://www.youtube.com/watch?v=bm9fgq9COgI)
 
 - JavaScript
 - Python
@@ -30,11 +30,11 @@ print("Hello world")
 
 >“Programs must be written for people to read, and only incidentally for machines to execute.”
 
-##About Me
+## About Me
 Hey, I'm *Shadrack Mwota*.
 I'm currently **studying** programming 
 
-###Coarses completed
+### Coarses completed
 - Graphic design
 - Media
 Reach out [My Projects] () 
