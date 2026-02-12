@@ -47,6 +47,6 @@ Hey, I'm *Shadrack Mwota*.
 I'm currently **studying** programming 
 
 ### Coarses completed
-- Graphic design
-- Media
+-Graphic design
+-Media
 Reach out [My Projects] () 
