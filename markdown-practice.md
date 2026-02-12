@@ -41,7 +41,7 @@ print("Hello world")
 ## Write a blockquote with a piece of advice, a quote you like, or something you learned recently.
 >“Programs must be written for people to read, and only incidentally for machines to execute.”
 
-## Bonus — Put it all together: ### At the end of the file, write a mini "About Me" section that uses at least 5 different Markdown features from the exercises above.
+### Bonus — Put it all together: At the end of the file, write a mini "About Me" section that uses at least 5 different Markdown features from the exercises above.
 ### About Me
 Hey, I'm *Shadrack Mwota*.
 I'm currently **studying** programming 
