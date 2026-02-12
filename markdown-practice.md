@@ -30,7 +30,7 @@ Learn [piano scales](https://www.youtube.com/watch?v=bm9fgq9COgI)
 ## Create a task list with at least 4 items related to your learning goals. Check off the ones you have already completed.
 -[*] Graphic design
 - [*]Media
-- [ ]Programming
+- [ ] Programming
 - [ ]Music production
 
 ## Write a code block in any language (or copy an example from the syntax reference above). Make sure to specify the language after the triple backticks for syntax highlighting.
