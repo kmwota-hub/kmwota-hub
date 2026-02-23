@@ -17,5 +17,3 @@
 - LinkedIn: Mwotsam
 
 
-
-Add my profile README
