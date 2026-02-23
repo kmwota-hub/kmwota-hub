@@ -10,7 +10,7 @@
 -HTML/CSS
 
 ## Current Projects
-- Creating a GitHub Profile
+- Career Paths in Tech
 
 ## How to Reach Me
 - Email: kmwota@gmail.com
