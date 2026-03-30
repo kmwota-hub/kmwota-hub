@@ -7,13 +7,17 @@
 
 ## Skills I'm Building
 - Git and GitHub
--HTML/CSS
+- HTML/CSS
+- JavaScript
+- React
+- Node.js/Express
+- Deployment
 
 ## Current Projects
 - Career Paths in Tech
 
 ## How to Reach Me
-- Email: kmwota@gmail.com
-- LinkedIn: [Mwotsam](https://linkedin.com/in/mwotsam)
+- **Email:** kmwota@gmail.com
+- **LinkedIn:** [Mwotsam](https://linkedin.com/in/mwotsam)
 
 
