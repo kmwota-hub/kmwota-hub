@@ -48,5 +48,6 @@ I'm currently **studying** programming
 
 #### Coarses completed
 - Graphic design
-- Media
-- Reach out [My Projects](https://github.com/kmwota-hub/Career-Paths-in-Tech) 
+- Media.
+
+Reach out [My Projects](https://github.com/kmwota-hub/Career-Paths-in-Tech) 
