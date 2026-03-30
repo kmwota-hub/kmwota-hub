@@ -46,7 +46,7 @@ print("Hello world")
 Hey, I'm *Shadrack Mwota*.
 I'm currently **studying** programming 
 
-#### Coarses completed
+#### Courses completed
 - Graphic design
 - Media.
 
