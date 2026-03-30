@@ -14,6 +14,6 @@
 
 ## How to Reach Me
 - Email: kmwota@gmail.com
-- LinkedIn: Mwotsam
+- LinkedIn: [Mwotsam](https://linkedin.com/in/mwotsam)
 
 
